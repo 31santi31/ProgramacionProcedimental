@@ -1,0 +1,19 @@
+.card{
+    margin: 5%;
+    border-style: solid;
+}
+
+.tag {
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 80%;
+}
+body {
+    background-color: black;
+}
+.costo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.content {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
